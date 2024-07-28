@@ -1,3 +1,5 @@
 # Cours sur Git
 
-# Nouvelle section
+## Nouvelle section
+
+Commit pour tester le three-way merge
